@@ -1007,6 +1007,8 @@ header.main > :last-child {
 header a img{
     width: 1167px;
     height: 121px;
+    display:block;
+    margin:auto;
   }
 
   /* Form */
